@@ -45,6 +45,7 @@ End-to-end production ML system · **90.5% AUC-ROC** · XGBoost + SHAP + FastAPI
 
 ### 🚗 [Cars24 Price Prediction](https://car24-price-prediction-sahirskd.streamlit.app/) — End-to-End Regression System
 Live Streamlit app · Ridge Regression pipeline with **R² = 0.96 train / 0.88 test** · RFE feature selection + VIF multicollinearity pruning + Polynomial Features (degree 4) 
+
 `Python` `Scikit-learn` `Ridge/Lasso` `Polynomial Features` `RFE` `Streamlit` `Joblib`
 
 ---
