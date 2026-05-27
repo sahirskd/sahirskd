@@ -43,9 +43,9 @@ PWA + native macOS desktop app via Tauri v2 (Rust) · Dual-model LLM layer (Clau
 End-to-end production ML system · **90.5% AUC-ROC** · XGBoost + SHAP + FastAPI  
 `Python` `Scikit-learn` `SHAP` `FastAPI` `Docker` `AWS S3` `DVC`
 
-### 🚗 Vehicle CO2 Emissions Estimation — Supervised Regression
-MLR model with **R² = 0.91** · VIF multicollinearity analysis · IQR-based outlier pipeline  
-`Python` `Pandas` `Scikit-learn` `Matplotlib`
+### 🚗 [Cars24 Price Prediction](https://car24-price-prediction-sahirskd.streamlit.app/) — End-to-End Regression System
+Live Streamlit app · Ridge Regression pipeline with **R² = 0.96 train / 0.88 test** · RFE feature selection + VIF multicollinearity pruning + Polynomial Features (degree 4) 
+`Python` `Scikit-learn` `Ridge/Lasso` `Polynomial Features` `RFE` `Streamlit` `Joblib`
 
 ---
 
