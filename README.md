@@ -3,7 +3,7 @@
 
 <!-- Typing animation banner -->
 <a href="https://sahir.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=ML+Engineer+%26+Senior+Software+Engineer;5%2B+years+building+enterprise+%26+AI+systems;AEM+%7C+MERN+%7C+MLOps+%7C+LLMs+%7C+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=ML+Engineer+%26+Senior+Software+Engineer;5%2B+years+building+enterprise+%26+AI/ML+systems;AEM+%7C+MERN+%7C+MLOps+%7C+LLMs+%7C+Agentic+AI" alt="Typing SVG" />
 </a>
 
 <br/>
