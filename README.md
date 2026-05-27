@@ -91,5 +91,5 @@ Live Streamlit app · Ridge Regression pipeline with **R² = 0.96 train / 0.88 t
 ---
 
 <div align="center">
-  <sub>Open to <strong>ML Engineering</strong>, <strong>AI/LLM product</strong>, and <strong>senior full-stack</strong> roles</sub>
+  <sub>Open to <strong>ML Engineering</strong>, and <strong>AI/LLM engineering</strong> roles</sub>
 </div>
