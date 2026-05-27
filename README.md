@@ -28,7 +28,7 @@ I'm an **ML Engineer & Senior Software Engineer** with 5+ years of experience bu
 - 🤖 I build **end-to-end ML systems** — from model development and MLOps pipelines to LLM orchestration and explainable AI
 - 🏗️ Deep roots in **enterprise engineering**: AEM, MERN stack, Electron/Tauri desktop apps
 - 🎯 Recognitions: **Employee of the Year** @ Techchefz · **Top Performer** @ Concentrix · **Coveo MVP 2026**
-- 🎓 **Advanced AI/ML Specialization** @ Scaler + MCA in progress
+- 🎓 **Advanced AI/ML Specialization** @ Scaler + MCA
 - 🏅 **2× Adobe Certified Expert**
 
 ---
