@@ -35,13 +35,13 @@ I'm an **ML Engineer & Senior Software Engineer** with 5+ years of experience bu
 
 ## 🚀 Featured Projects
 
-### 🔬 [HeartGlass AI](https://heartglass-ai.streamlit.app/) — Explainable Cardiac Risk Prediction
-End-to-end production ML system · **90.5% AUC-ROC** · XGBoost + SHAP + FastAPI  
-`Python` `Scikit-learn` `SHAP` `FastAPI` `Docker` `AWS S3` `DVC`
-
 ### 📄 [CV-Fix](https://github.com/sahirskd/CV-Fix) — AI-Powered Resume Tailoring Workstation
 PWA + native macOS desktop app via Tauri v2 (Rust) · Dual-model LLM layer (Claude 3.5 / Gemini 2.0) · 10-dimension ATS scorecard · Live LaTeX renderer  
 `React 19` `TypeScript` `Tauri v2` `Rust` `Claude API` `Gemini API` `IndexedDB`
+
+### 🔬 [HeartGlass AI](https://heartglass-ai.streamlit.app/) — Explainable Cardiac Risk Prediction
+End-to-end production ML system · **90.5% AUC-ROC** · XGBoost + SHAP + FastAPI  
+`Python` `Scikit-learn` `SHAP` `FastAPI` `Docker` `AWS S3` `DVC`
 
 ### 🚗 Vehicle CO2 Emissions Estimation — Supervised Regression
 MLR model with **R² = 0.91** · VIF multicollinearity analysis · IQR-based outlier pipeline  
@@ -90,5 +90,5 @@ MLR model with **R² = 0.91** · VIF multicollinearity analysis · IQR-based out
 ---
 
 <div align="center">
-  <sub>Open to <strong>ML Engineering</strong>, <strong>AI/LLM product</strong>, and <strong>senior full-stack</strong> roles — remote or Hyderabad/Delhi NCR.</sub>
+  <sub>Open to <strong>ML Engineering</strong>, <strong>AI/LLM product</strong>, and <strong>senior full-stack</strong> roles</sub>
 </div>
